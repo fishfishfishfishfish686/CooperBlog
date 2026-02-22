@@ -1,6 +1,6 @@
 ---
 title: How I local Hosted this
-date: 2026-02-22
+date: 2026-02-23
 draft: false
 tags:
   - Localhost

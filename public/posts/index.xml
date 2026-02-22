@@ -15,12 +15,5 @@
       <guid>/posts/blog-start/</guid>
       <description>&lt;p&gt;This is the first post on The blog&#xA;:)&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;/images/pngtree-colorful-blog-speech-bubble-png-image_9025630.png&#34; alt=&#34;Image Description&#34;&gt;&lt;/p&gt;</description>
     </item>
-    <item>
-      <title>How I local Hosted this</title>
-      <link>/posts/local-hosting-with-nginx/</link>
-      <pubDate>Sun, 22 Feb 2026 00:00:00 +0000</pubDate>
-      <guid>/posts/local-hosting-with-nginx/</guid>
-      <description>&lt;p&gt;I locally hosted this using nginx, I downloaded the repo and pointed nginx at the html file, I then made a bash script that checks for new repo, downloads it and reloads nginx. I then used crontab to run that script every 10 minutes, this website was then forwarded through a cloudflared tunnel.&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;/images/IMG_0265.png&#34; alt=&#34;Image Description&#34;&gt; A photo of the machine hosting this server&lt;/p&gt;</description>
-    </item>
   </channel>
 </rss>
