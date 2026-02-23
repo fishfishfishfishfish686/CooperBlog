@@ -3,6 +3,7 @@ title: How to Mine Crypto
 date: 2026-02-23
 draft: false
 ---
+![Image Description](/images/monero-symbol-on-white-480%201.png)
 # Requirements:
 Things you will require to set this server up
 - A server, not a VM
