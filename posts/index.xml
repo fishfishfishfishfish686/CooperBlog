@@ -6,8 +6,15 @@
     <description>Recent content in Posts on Terminal</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 22 Feb 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 23 Feb 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>How to Mine Crypto</title>
+      <link>/posts/how-to-mine-crypto/</link>
+      <pubDate>Mon, 23 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>/posts/how-to-mine-crypto/</guid>
+      <description>&lt;h1 id=&#34;requirements&#34;&gt;Requirements:&lt;/h1&gt;&#xA;&lt;p&gt;Things you will require to set this server up&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;A server, not a VM&lt;/li&gt;&#xA;&lt;li&gt;Ethernet and ample cooling&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h1 id=&#34;setup&#34;&gt;Setup:&lt;/h1&gt;&#xA;&lt;p&gt;You will need to set up the server with a server os such as Ubuntu Server or Debian.&lt;/p&gt;&#xA;&lt;p&gt;You will then need to download the required packages:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;git&lt;/li&gt;&#xA;&lt;li&gt;build-essential&lt;/li&gt;&#xA;&lt;li&gt;cmake&lt;/li&gt;&#xA;&lt;li&gt;libuv1-dev&lt;/li&gt;&#xA;&lt;li&gt;libssl-dev&lt;/li&gt;&#xA;&lt;li&gt;libhwloc-dev&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;&lt;strong&gt;Install Command:&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;sudo apt install git build-essential cmake libuv1-dev libssl-dev libhwloc-dev&#xA;&lt;/code&gt;&lt;/pre&gt;&lt;h1 id=&#34;installation&#34;&gt;Installation&lt;/h1&gt;&#xA;&lt;p&gt;You will need to clone the git repo:&lt;/p&gt;</description>
+    </item>
     <item>
       <title>How I local Hosted this</title>
       <link>/posts/local-hosting-with-nginx/</link>
