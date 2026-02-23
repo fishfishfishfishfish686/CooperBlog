@@ -67,6 +67,7 @@ make
 
 You can create a Monero wallet by downloading the GUI wallet from their website: https://www.getmonero.org/downloads/
 You can then follow the instructions to create your Monero wallet. To get your wallet address you can click on the Account tab on the left and press the "Copy Address to Clipboard Button" next to Primary Account.
+![Image Description](/images/Pasted%20image%2020260223180037.png)
 
 # Post-Installation
 
