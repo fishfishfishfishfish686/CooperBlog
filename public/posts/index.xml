@@ -6,8 +6,15 @@
     <description>Recent content in Posts on Terminal</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 23 Feb 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 25 Feb 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>How I local Hosted this</title>
+      <link>/posts/untitled/</link>
+      <pubDate>Wed, 25 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>/posts/untitled/</guid>
+      <description>&lt;p&gt;Whatever&lt;/p&gt;</description>
+    </item>
     <item>
       <title>How to Mine Crypto</title>
       <link>/posts/how-to-mine-crypto/</link>
